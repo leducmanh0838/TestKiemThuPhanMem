@@ -21,5 +21,10 @@ namespace LeDucManh
         {
             String x = "Hello";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String x = "Button2";
+        }
     }
 }
